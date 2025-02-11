@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sujata-dhanwar&show_icons=true&locale=en" alt="sujata-dhanwar" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujata-dhanwar&" alt="sujata-dhanwar" /></p>
+
